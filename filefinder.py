@@ -5,7 +5,7 @@ import requests
 import sys
 import os
 
-#Files Finder - Developed by Panic | Greetz: WHK  ; D3l3v3 ; fr0n
+#Files Finder - Developed by Panic 
 #http://github.com/hck1army
 
 #Usage:
