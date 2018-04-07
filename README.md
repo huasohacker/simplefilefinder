@@ -1,5 +1,5 @@
-#Files Finder - Developed by Panic
+# Files Finder
 
-#Usage: $ python filefinder.py http://www.domain.com
+#Usage: 
 
-#Enjoy
+$ python filefinder.py http://www.domain.com
