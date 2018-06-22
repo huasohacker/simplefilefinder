@@ -14,7 +14,8 @@ import os
 c_red	= 	"\033[01;31m"
 c_green = 	"\033[01;32m"
 c_def	=	"\033[0m"
-files	=	['backup.sql', 'bck.txt', '.git/', 'vssver.scc', '.ext~', '.ext.swp', '.ext.swo', '.log', 'Desktop.ini', '.DS_Store', 'Thumbs.db', '.fuse_hidden', '.bkp', '.gitignore', '.php~']
+files   =   file=open('dicc.txt','r')
+#files	=	['backup.sql', 'bck.txt', '.git/', 'vssver.scc', '.ext~', '.ext.swp', '.ext.swo', '.log', 'Desktop.ini', '.DS_Store', 'Thumbs.db', '.fuse_hidden', '.bkp', '.gitignore', '.php~']
 link 	=	sys.argv[1]
 
 def welcome():
@@ -26,7 +27,7 @@ def welcome():
 |  _| | | |  __/\__ \ |  _| | | | | | (_| |  __/ |
 |_|   |_|_|\___||___/ |_|   |_|_| |_|\__,_|\___|_| 
                                                                  
-  Developed by Panic. | Greetz: WHK ; D3l3v3 ; fr0n ;  (\033[0mhttp://www.github.com/hck1army\033[1m)\033[0m
+  Developed by Panic. | 
 
 """
 
